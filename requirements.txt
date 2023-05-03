@@ -1,0 +1,120 @@
+GitPython>=3.1.31
+blessed>=1.20.0
+
+cookiecutter>=2.1.1
+twine>=4.0.0
+
+sphinx==5.3.0
+sphinx_copybutton>=0.5.2
+sphinx_rtd_theme>=1.0.0
+numpydoc>=1.5.0
+
+annexremote>=1.6.0
+python-language-server>=0.36.2
+remote-ikernel>=0.4.6
+
+colorama>=0.4.4
+coloredlogs>=15.0.1
+pytest>=7.1.2
+pytest-cov>=3.0.0
+
+# cupy-cuda114>=10.4.0
+
+# spacy>=3.3.0
+spacy==3.2.4  # CAUTION
+spacy-legacy>=3.0.9
+spacy-loggers>=1.0.2
+spacy-transformers>=1.1.5
+dframcy>=0.1.6
+
+spacytextblob>=4.0.0
+# spacy-readability # WARNING: compatibility issues with spacy 3.3.0 and other packages
+
+sense2vec>=2.0.0
+
+srsly>=2.4.3
+PyYAML>=5.1
+h5py>=2.10.0
+hickle>=4.0.4
+
+
+humanfriendly>=10.0
+hurry.filesize>=0.9
+
+datasets>=2.1.0
+huggingface-hub>=0.5.1
+transformers>=4.17.0
+
+# numpy
+pandas>=1.4.2
+pytz>=2022.1
+tzlocal>=4.2
+
+tabulate>=0.8.9
+prettytable>=3.2.0
+
+pyreadstat>=1.1.5
+
+
+networkx>=2.8
+scipy>=1.8.0
+scikit-learn>=1.0.2
+scikit-learn-intelex>=2021.5.3
+
+python-louvain>=0.16
+
+matplotlib>=3.5.1
+seaborn>=0.11.2
+bokeh>=2.4.2
+plotly>=5.7.0
+
+gensim>=4.2.0
+stanza>=1.4.0
+nltk>=3.7
+wn>=0.9.1
+
+bertopic>=0.10.0
+hdbscan>=0.8.28
+umap-learn>=0.5.3
+# sentence-transformers>=2.2.0
+# sentencepiece>=0.1.96
+# llvmlite>=0.38.0
+# Cython>=0.29.28
+# numba>=0.55.1
+# pynndescent>=0.5.6
+
+statsmodels>=0.13.2
+openpyxl>=3.0.9
+pyphen>=0.12.0
+wordcloud>=1.8.1
+python-Levenshtein>=0.12.2
+PythonMeta==1.26
+
+# beautifulsoup4
+urllib3>=1.26.9
+fake-useragent>=0.1.11
+pycurl>=7.45.1
+
+pydicom>=2.3.0
+
+# kaggle
+kaggle>=1.5.12
+# text-unidecode>=1.3
+
+libclang>=14.0.1
+# libclang>=13.0.1
+
+toolz==0.11.2
+
+pydeface
+dcm2bids
+
+sacremoses>=0.0.51
+bert-extractive-summarizer>=0.10.0
+
+# praw
+praw>=7.5.0
+# prawcore>=2.3.0
+# google-api-python-client>=2.46.0
+# google-auth-httplib2>=0.1.0
+# google-auth-oauthlib>=0.5.1

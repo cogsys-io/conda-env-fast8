@@ -1,0 +1,22 @@
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - python=3.8.8
+  - pip
+  - setuptools
+  - gcc_linux-64
+  - ipython
+  - ipykernel
+  - jupyter
+  - ncurses
+  - conda-forge::datalad
+  - conda-forge::git-annex=*=alldep*
+  - pytorch::pytorch=1.7.0=py3.8_cuda11.0.221_cudnn8.0.3_0
+  - pytorch::torchvision=0.8.1=py38_cu110
+  - cudatoolkit
+  - cudnn
+  - pip:
+    - -r requirements.txt

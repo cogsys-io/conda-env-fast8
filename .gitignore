@@ -1,0 +1,9 @@
+arch/
+kernels/remote*
+notes.org
+tests.org
+
+.DS_Store
+.idea
+*.log
+tmp/
